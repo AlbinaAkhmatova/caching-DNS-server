@@ -31,4 +31,4 @@ nslookup whoami.dns 127.0.0.1
 ```
 
 # Пример работы DNS-сервера
-![*не первый запуск сервера](images/working_dns_server.png)
+![*не первый запуск сервера](images/working_dns_server1.png)
